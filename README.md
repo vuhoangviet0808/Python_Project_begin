@@ -1,1 +1,3 @@
 # Python_Story_Generator
+
+Một project nhỏ của mình ạ...
